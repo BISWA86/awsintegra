@@ -9,7 +9,7 @@ public class HelloWorldController {
 	@GetMapping(path = "/hello1-world")
 	public String helloWorld() {
 
-		return "Hello World Homily";
+		return "Hello World Homily App";
 
 	}
 
